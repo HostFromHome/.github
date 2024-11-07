@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm HostFromHome</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hostfromhome&label=Profile%20views&color=0e75b6&style=flat" alt="hostfromhome" /> </p>
+## Hey 👋, I'm Simpaul!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hostfromhome" alt="hostfromhome" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🔨 Languages and Tools:
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="NuxtJS" src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&style=flat-square&logo=nuxt.js&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" />
+  <img alt="laravel" src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white" />
+  <img alt="AdonisJS" src="https://img.shields.io/badge/AdonisJS-330066?style=flat-square&logo=adonisjs&logoColor=white"> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hostfromhome&show_icons=true&locale=en&layout=compact" alt="hostfromhome" /></p>
+![Stats Overview](https://raw.githubusercontent.com/simpaul13/github-stats-transparent/output/generated/overview.svg)
+![Most Used](https://raw.githubusercontent.com/simpaul13/github-stats-transparent/output/generated/languages.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hostfromhome&" alt="hostfromhome" /></p>
+</a>
